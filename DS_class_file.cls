@@ -50,7 +50,7 @@
 \definecolor{sidecolor}{HTML}{E7E7E7}
 \definecolor{mainblue}{HTML}{0E5484}
 %\definecolor{maingray}{HTML}{B9B9B9}
-\definecolor{mainpurple}{HTML}{884EA0}
+\definecolor{mainpurple}{HTML}{0B663F}
 \definecolor{maingray}{HTML}{85929E}
 
 \definecolor{pblue}{HTML}{0395DE}
@@ -60,11 +60,11 @@
 \definecolor{lightgray}{HTML}{999999}
 \definecolor{green}{HTML}{C2E15F}
 \definecolor{orange}{HTML}{FDA333}
-\definecolor{purple}{HTML}{D3A4F9}
+\definecolor{purple}{HTML}{0C9259}
 \definecolor{red}{HTML}{FB4485}
 \definecolor{blue}{HTML}{6CE0F1}
 \definecolor{pblue}{HTML}{0395DE}
-\definecolor{materialpurple}{HTML}{9C27B0}
+\definecolor{materialpurple}{HTML}{2E9569}
 \definecolor{materialindigo}{HTML}{3F51B5}
 \definecolor{materialblue}{HTML}{2196F3}
 \definecolor{materialcyan}{HTML}{00BCD4}
@@ -226,14 +226,14 @@
               $}
             & \cvsite\\}
             %& \href{http://\cvsite}{\cvsite} \\}
-      \ifthenelse{\equal{\cvwebsite}{}}{}{
-            {$
-              \begin{array}{l}
-              \hspace{-2.5mm} \huge \textnormal{\textcolor{test}{\faInternetExplorer}}
-              \end{array}
-              $}
-            % fo
-            & \href{https://\cvwebsite}{\cvwebsite} \\}
+%      \ifthenelse{\equal{\cvwebsite}{}}{}{
+%            {$
+%              \begin{array}{l}
+%              \hspace{-2.5mm} \huge \textnormal{\textcolor{test}{\faInternetExplorer}}
+%              \end{array}
+%              $}
+%            % fo
+%            & \href{https://\cvwebsite}{\cvwebsite} \\}
       \ifthenelse{\equal{\cvmail}{}}{}{
             {$
               \begin{array}{l}
@@ -262,7 +262,8 @@
     \vspace{0.5cm}
     
     % about me text
-    \profilesection{\color{headercolor}\hspace{5mm}About me}{0.0cm}
+    % \profilesection{\color{headercolor}\hspace{5mm}About me}{0.0cm}
+    \profilesection{\color{headercolor}\hspace{5mm}Perfil profesional}{0.0cm}
     
     \vspace{1.0mm}
     
