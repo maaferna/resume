@@ -342,12 +342,12 @@
 }
 
 \newcommand{\twentyitem}[6]{%
-	#1&\parbox[t]{0.83\textwidth}{%
+	#1&\parbox[t]{0.93\textwidth}{%
 		\textbf{#3}% 
 		\hfill%
 		{\footnotesize#4}%
         }\\%
-    #2&\parbox[t]{0.83\textwidth}{%
+    #2&\parbox[t]{0.93\textwidth}{%
 		\ifblank{#5}{}{#5 \\}
 		#6%
 	}\\
@@ -363,7 +363,7 @@
 }
 
 \newcommand{\twentyitemshort}[2]{%
-	#1&\parbox[t]{0.83\textwidth}{%
+	#1&\parbox[t]{0.93\textwidth}{%
 		#2%
 	}\\
 }
