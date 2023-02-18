@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2023.2.15)  17 FEB 2023 18:21
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2023.2.15)  17 FEB 2023 20:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -314,19 +314,19 @@ Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic
 .tex)
 Requested font "FontAwesome" at 9.99997pt
- -> W^^ð^^À^^AV
+ -> 6^^^^×4^^8U
 Requested font "FontAwesome/OT" at 10.00003pt
- -> W^^	^^À^^AV
+ -> 6A^^Ö4^^8U
 Requested font "FontAwesome/OT:language=dflt;" at 10.00002pt
- -> p^^þ^^À^^AV
+ -> ^^O^^^^×4^^8U
 Requested font "FontAwesome/BI/OT:language=dflt;" at 10.00002pt
- -> ^^ç^^Jd^^E
+ -> ^^V^^ô^^_^^E
 Requested font "FontAwesome/B/OT:language=dflt;" at 10.00002pt
- -> ^^ç^^Jd^^E
+ -> ^^V^^ô^^_^^E
 Requested font "FontAwesome/I/OT:language=dflt;" at 10.00002pt
- -> ^^ç^^Jd^^E
+ -> ^^V^^ô^^_^^E
 Requested font "FontAwesome/OT:language=dflt;" at 10.00003pt
- -> ^^÷^^X^^Æ^^AV
+ -> 6p^^Õ4^^8U
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluate
 x.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
@@ -1199,7 +1199,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Warning: Command \Huge invalid in math mode on input line 95.
 
 Requested font "FontAwesome/OT:language=dflt;" at 24.88pt
- -> ^^!^^Jd^^E
+ -> P^^ö^^_^^E
 
 Overfull \hbox (3.02235pt too wide) in paragraph at lines 95--95
 []$[]$| 
@@ -1215,7 +1215,7 @@ x-text;" at 20.74pt
  -> /usr/share/texlive/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regu
 lar.ttf
 Requested font "FontAwesome/OT:language=dflt;" at 20.74pt
- -> ,^^Jd^^E
+ -> ^^Û^^ö^^_^^E
 
 Overfull \hbox (9.28305pt too wide) in paragraph at lines 95--95
 []$[]$| 
@@ -1329,18 +1329,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--195
 [1
 
 ]
-LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 240.
-Requested font "[ClearSans-Regular.ttf]/OT:script=latn;language=dflt;mapping=te
-x-text;" at 12.0pt
- -> /usr/share/texlive/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regu
-lar.ttf
-LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 240.
-Requested font "[ClearSans-Bold.ttf]/OT:script=latn;language=dflt;mapping=tex-t
-ext;" at 12.0pt
- -> /usr/share/texlive/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Bold
-.ttf
+Overfull \hbox (7.82854pt too wide) in paragraph at lines 240--240
+[]\TU/ClearSans(0)/m/n/20.74 Programming Skills
+ []
+
+
+Overfull \hbox (3.86774pt too wide) in paragraph at lines 240--240
+[]   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+
+ []
 
 
 LaTeX Warning: Command \textbullet invalid in math mode on input line 240.
@@ -1380,24 +1381,30 @@ Overfull \hbox (8.62671pt too wide) in paragraph at lines 240--240
 [][] 
  []
 
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 240.
+Requested font "[ClearSans-Regular.ttf]/OT:script=latn;language=dflt;mapping=te
+x-text;" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regu
+lar.ttf
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 240.
+Requested font "[ClearSans-Bold.ttf]/OT:script=latn;language=dflt;mapping=tex-t
+ext;" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Bold
+.ttf
 
 Overfull \hbox (0.4pt too wide) in paragraph at lines 240--240
 [][] 
  []
 
-LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 346.
-Requested font "[ClearSans-Regular.ttf]/OT:script=latn;language=dflt;mapping=te
-x-text;" at 7.0pt
- -> /usr/share/texlive/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regu
-lar.ttf
 
-Overfull \hbox (21.33421pt too wide) in alignment at lines 334--415
+Overfull \hbox (11.87914pt too wide) in alignment at lines 334--414
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--416
+Underfull \hbox (badness 10000) in paragraph at lines 334--415
 
  []
 
@@ -1406,12 +1413,12 @@ Package rerunfilecheck Info: File `DS_tex_file.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 26997 strings out of 478774
- 537143 string characters out of 5864471
+ 27011 strings out of 478774
+ 537352 string characters out of 5864471
  938740 words of memory out of 6000000
- 46487 multiletter control sequences out of 15000+600000
- 404086 words of font info for 65 fonts, out of 8000000 for 9000
+ 46502 multiletter control sequences out of 15000+600000
+ 404078 words of font info for 64 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 115i,17n,118p,600b,836s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 115i,17n,118p,600b,835s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on DS_tex_file.pdf (2 pages).

@@ -430,13 +430,11 @@
 
 \vspace{0.7cm}
 
-\profilesection{\color{headercolor}ML Libraries}{0.0cm}
+\profilesection{\color{headercolor}Programming Skills}{0.0cm}
 
 \mllibs
 
 \vspace{0.7cm}
-
-{\large \textbf{\color{headercolor}Programming Skills}}
 
 \programming
 
