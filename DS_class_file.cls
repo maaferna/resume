@@ -449,6 +449,8 @@
 {\large \textbf{\color{headercolor}Languages}}
 
 \programminglanguage
+{“Certificate of Proficiency with LEVEL 8 in platform Open English: "for demonstrating profiencies that align to Level B2 as described by the Common European Framework for Reference (CEFR) for lenguagues as of this 28th day of August, 2021."}
+
 
 \vspace{0.7cm}
 
